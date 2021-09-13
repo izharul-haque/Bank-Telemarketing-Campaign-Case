@@ -16,11 +16,11 @@ Your target is to do end to end EDA on this bank telemarketing campaign data set
 
 ![image](https://user-images.githubusercontent.com/76435558/133123092-f652a4e5-1b16-43f9-a368-c4bfcf383118.png)
 
-# bar graph of percentage job categories
+# Bargraph of job categories percentage
 
 ![image](https://user-images.githubusercontent.com/76435558/133125858-3d9eb07d-5a53-42b1-b149-5be8682feffe.png)
 
-# heatmap of job and marital status
+# Heatmap of job and marital status
 
 ![image](https://user-images.githubusercontent.com/76435558/133126523-e1084343-f28f-4d6b-975c-5f97813f28af.png)
 
