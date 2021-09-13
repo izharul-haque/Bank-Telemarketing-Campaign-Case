@@ -12,8 +12,18 @@ Term deposits also called fixed deposits, are the cash investments made for a sp
 
 Your target is to do end to end EDA on this bank telemarketing campaign data set to infer knowledge that where bank has to put more effort to improve it's positive response rate.
 
-Pairplot of salary, balance and age. 
+# Pairplot of salary, balance and age. 
+
 ![image](https://user-images.githubusercontent.com/76435558/133123092-f652a4e5-1b16-43f9-a368-c4bfcf383118.png)
+
+# bar graph of percentage job categories
+
+![image](https://user-images.githubusercontent.com/76435558/133125858-3d9eb07d-5a53-42b1-b149-5be8682feffe.png)
+
+# heatmap of job and marital status
+
+![image](https://user-images.githubusercontent.com/76435558/133126523-e1084343-f28f-4d6b-975c-5f97813f28af.png)
+
 
 # Conclusion
 By doing data cleaning and handling outliers, we can get some information about market behaviour and characteristic of this bank. First, the class of job such as entrepreneur, umployed, housemaid, student, admin, etc has shown blue-collar (21.53%), management (20.92%), and technician(16.80%) on top three. While the marital variable tells that mostly blue-collar and management segment had married. Blue-collar and management have a contrary in education class, which more than 15% of management segment has tertiary education history and blue-collar is less than 0.5%, dominated in secondary class education.
